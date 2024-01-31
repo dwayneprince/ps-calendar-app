@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dwayneprince/ps-calendar.git/static/css/main.9e33af24.css",
-    "main.js": "/dwayneprince/ps-calendar.git/static/js/main.05e62a4c.js",
-    "static/js/787.ff0fbe15.chunk.js": "/dwayneprince/ps-calendar.git/static/js/787.ff0fbe15.chunk.js",
-    "index.html": "/dwayneprince/ps-calendar.git/index.html",
-    "main.9e33af24.css.map": "/dwayneprince/ps-calendar.git/static/css/main.9e33af24.css.map",
-    "main.05e62a4c.js.map": "/dwayneprince/ps-calendar.git/static/js/main.05e62a4c.js.map",
-    "787.ff0fbe15.chunk.js.map": "/dwayneprince/ps-calendar.git/static/js/787.ff0fbe15.chunk.js.map"
+    "main.css": "/dwayneprince/ps-calendar-app.git/static/css/main.9e33af24.css",
+    "main.js": "/dwayneprince/ps-calendar-app.git/static/js/main.29025070.js",
+    "static/js/787.ff0fbe15.chunk.js": "/dwayneprince/ps-calendar-app.git/static/js/787.ff0fbe15.chunk.js",
+    "index.html": "/dwayneprince/ps-calendar-app.git/index.html",
+    "main.9e33af24.css.map": "/dwayneprince/ps-calendar-app.git/static/css/main.9e33af24.css.map",
+    "main.29025070.js.map": "/dwayneprince/ps-calendar-app.git/static/js/main.29025070.js.map",
+    "787.ff0fbe15.chunk.js.map": "/dwayneprince/ps-calendar-app.git/static/js/787.ff0fbe15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e33af24.css",
-    "static/js/main.05e62a4c.js"
+    "static/js/main.29025070.js"
   ]
 }
